@@ -11,4 +11,4 @@ elif age >= 30 and weight > 120:
 elif age >= 40 and (weight < 50 or weight > 120):
     print(name, surname, ' ,советуем обратится к врачу')
 else:
-    print('Программа окончена')
+    print('Программа окончена ')
